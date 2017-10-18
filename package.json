@@ -1,0 +1,11 @@
+{
+  "name": "shadowtest",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node ./bin/ssserver"
+  },
+  "dependencies": {
+    "shadowsocks": "^1.5.3"
+  }
+}
