@@ -1,7 +1,7 @@
 {
     "localAddress":"127.0.0.1",
     "localPort": 8888,
-    "serverAddress": "shadowtest12.herokuapp.com",
+    "serverAddress": "shadowtest11.herokuapp.com",
     "serverPort": 80,
     "password": "20151005",
     "method": "aes-256-cfb"
